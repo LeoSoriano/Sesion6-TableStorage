@@ -18,7 +18,7 @@ La cuenta de almacenamiento de es la que contiene todos los objetos de los demas
 
 1.- Abrir el [Portal Azure](portal.azure.com).
 
-1[Portal Azure](Imagenes/portalAzure.png)
+![Portal Azure](Imagenes/portalAzure.png)
 
 2.- Nos iremos a la parte de almacenamiento y nos vamos a la seccion Tablas.
 
